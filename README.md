@@ -1,4 +1,4 @@
-判断域名为http或https并返回状态码和标题
+超级简单的判断域名为http或https并返回状态码和标题
 
 需要安装requests库
 

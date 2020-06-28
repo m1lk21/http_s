@@ -3,7 +3,7 @@
 需要安装requests库
 
 使用方法:
-domain.txt中输入域名
+domain.txt中填写域名
 
 cmd
 
